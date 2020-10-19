@@ -146,7 +146,7 @@ def fetchx(tokac):
     except:
         print R + rball + ' Failed to Fetch....'
 
-os.system('xdg-open https://t.me/C111TU')
+os.system('xdg-open https://t.me/kABUS12k')
 print banner.format(R, G, R, W, R)
 
 sos = str(sys.platform)
