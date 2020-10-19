@@ -1,5 +1,4 @@
-# Decompiled By RandiSr
-# Github : https://github.com/RANDIOLOY
+
 import requests
 import sys, time, os
 os.system('clear')
@@ -23,6 +22,7 @@ from multiprocessing import *
 from random import choice
 os.system('clear')
 try:
+    os.system('xdg-open https://t.me/kABUS12k')    
     os.system('rm flo.txt')
     os.system('rm slog.txt')
     os.system('rm plog.txt')
@@ -197,6 +197,7 @@ while True:
         founp = open('found.txt', 'r').read()
         print '\n \n' + sball + R + ' [ Accounts Hacked ] ' + sball + G + (' \n {}').format(str(founp))
         print '\n' + rball + ' Compleated ' + rball
+    os.system('xdg-open https://t.me/C111TU')  
         sys.exit()
 # okay decompiling ok.pyc
 
